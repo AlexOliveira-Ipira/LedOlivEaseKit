@@ -1,0 +1,17 @@
+#######################################
+# (KEYWORD1)
+#######################################
+[keywords]
+KEYWORD1 = #00BFFF
+
+LedOlivEaseKit	KEYWORD1
+atua	KEYWORD1
+
+#######################################
+# (KEYWORD2)
+#######################################
+	
+LedLigado   	KEYWORD2
+LedDesligado    	KEYWORD2
+LedPausa    	KEYWORD2
+LedPisca     	KEYWORD2
